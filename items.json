@@ -1,0 +1,14 @@
+{
+    "items":[
+    {"slNo":1, "Name":"Apple", "Quantity":1,"Unit":"kg", "Department":"Fruits", "Notes":"Crunchy"},
+    {"slNo":2, "Name":"Orange", "Quantity":2,"Unit":"Kg", "Department":"Fruits", "Notes":"Sweet"}, 
+    {"slNo":3, "item":"Rice", "Quantity":1, "Unit":"kg", "Department":"General", "Notes":"Matta"},
+    {"slNo":4, "Name":"Onion", "Quantity":2,"Unit":"Kg", "Department":"Vegetables", "Notes":"Red Medium"},
+    {"slNo":5, "Name":"Coconut Oil", "Quantity":2,"Unit":"kg", "Department":"Oil & Ghees", "Notes":"Pure Coconut Oil"},
+    {"slNo":6, "Name":"Egg", "Quantity":1,"Unit":"Dz", "Department":"Egg", "Notes":"Chicken Egg"},
+    {"slNo":7, "Name":"Vegetables", "Quantity":500,"Unit":"grams", "Department":"Vegetables", "Notes":"Fresh Vegetables"},
+    {"slNo":8, "Name":"Chicken", "Quantity":2,"Unit":"kg", "Department":"Meat", "Notes":"Cleaned"},
+    {"slNo":9, "Name":"Milk", "Quantity":1,"Unit":"litr", "Department":"Dairy", "Notes":"Milma"},
+    {"slNo":10, "Name":"Soap", "Quantity":2,"Unit":"No", "Department":"Personal Care", "Notes":"Bathing Soap"}
+    ]
+}
